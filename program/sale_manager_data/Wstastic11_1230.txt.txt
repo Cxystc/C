@@ -1,0 +1,5 @@
+Product3: 60 Yuan
+Product4: 20 Yuan
+Product1: 0 Yuan
+Product2: 0 Yuan
+Product5: 0 Yuan
